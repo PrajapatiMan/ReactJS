@@ -1,4 +1,4 @@
-# To-Do-List 📝 Using
+# To-Do-List Using
 #  ReactJS  ⚡
 
 ## Output
